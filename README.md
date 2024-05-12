@@ -1,2 +1,2 @@
 # ECE2035-RPG
-RPG Game for ECE2035 @ GaTech
+* Tales of Buzz: RPG Game for ECE2035 @ GaTech
