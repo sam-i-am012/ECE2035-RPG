@@ -4,3 +4,5 @@
     * Handheld top-down RPG game
 * Memory of objects backed by hashtable
 * Circuit created from materials in this kit: https://www.sparkfun.com/products/retired/14458
+
+file given in class with information about the project: [P2-2_FA23.pdf](https://github.com/sam-i-am012/ECE2035-RPG/files/15314398/P2-2_FA23.pdf)
