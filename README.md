@@ -7,3 +7,6 @@
 
 file given in class with information about the project: [2035Project.pdf](https://github.com/sam-i-am012/ECE2035-RPG/files/15314404/2035Project.pdf)
 
+Basic features demonstration: https://youtu.be/OGNZBpvTosY
+Advanced features demonstration: https://youtu.be/oOtgu5TldOQ
+
